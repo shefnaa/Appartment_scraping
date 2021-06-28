@@ -18,7 +18,7 @@ Python
 
 5.pandas 
 
-## Data collected	Bhk_info	Price	Locality	Area_sqft	Status	Price_Per_sqft
+## Data collected	
 
 1.Owner Information
 
